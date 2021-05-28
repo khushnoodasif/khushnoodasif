@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushnood Asif</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20views&color=0e75b6&style=flat" alt="khushnoodasif" /> </p>
 
-- 🌱 I’m currently learning **Python, C, JavaScript**
+- 🌱 I’m currently learning **Python, C and JavaScript**.
 
 - 👨‍💻 All of my projects are available at [khushnoodasif.github.io/portfolio/](khushnoodasif.github.io/portfolio/)
 

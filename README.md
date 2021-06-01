@@ -9,8 +9,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="kush_a9_" height="35" width="40" /></a>
-<a href="https://instagram.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="kush_a9_" height="35" width="40" /></a>
+<a href="https://twitter.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="kush_a9_" height="40" width="40" /></a>
+<a href="https://instagram.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="kush_a9_" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

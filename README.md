@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, C and JavaScript**.
 
-- 👨‍💻 All of my projects are available at [khushnoodasif.github.io/portfolio/](khushnoodasif.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [khushnoodasif.github.io/portfolio/](https://khushnoodasif.github.io/portfolio/)
 
 - 📫 How to reach me **khushnood99@gmail.com**
 

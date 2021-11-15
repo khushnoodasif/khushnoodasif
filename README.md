@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushnood Asif</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=blue&style=flat" alt="khushnoodasif" /> </p>
 
-- 🌱 I’m currently learning **Web Development and Data Analysis**.
+- 🌱 I’m currently learning **Web Development**.
 
 - 📄 Know about my experiences at [khushnoodasif.com/resume](https://khushnoodasif.com/resume)
 

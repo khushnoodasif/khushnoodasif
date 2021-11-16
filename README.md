@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**.
 
-- 📄 Know about my experiences at [khushnoodasif.com/resume](https://khushnoodasif.com/resume)
+- 📄 Know about my experiences at [khushnoodasif.com](https://khushnoodasif.com)
 
 - 📫 How to reach me **khushnood99@gmail.com**
 

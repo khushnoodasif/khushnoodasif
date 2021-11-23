@@ -11,7 +11,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
 <a href="https://www.linkedin.com/in/khushnoodasif/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="khushnoodasif" height="40" width="40" /></a>
 <a href="https://twitter.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="kush_a9_" height="40" width="40" /></a>
 <a href="https://instagram.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="kush_a9_" height="40" width="40" /></a>
@@ -19,7 +18,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>

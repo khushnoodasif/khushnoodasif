@@ -19,4 +19,4 @@ jobs:
           USERNAME: 'khushnoodasif'
           COUNT: 10
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

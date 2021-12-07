@@ -2,7 +2,15 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=SELF-TAUGHT%20PROGRAMMER;ALWAYS%20LEARNING%20AND%20IMPROVING&font=Fira%20Code&center=true&width=440&height=45&color=64ffda&vCenter=true&size=22"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=64ffda&style=flat" alt="khushnoodasif" /> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/khushnoodasif/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="khushnoodasif" height="40" width="40" /></a>
+<a href="https://twitter.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="kush_a9_" height="40" width="40" /></a>
+<a href="https://instagram.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="kush_a9_" height="40" width="40" /></a>
+</p>
+
+<p align="center">
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=182a46&style=flat" alt="khushnoodasif" /> </p>
+    </p>
 
 - 🌱 I’m currently learning **AWS, Kubernetes and Linux**.
 
@@ -11,13 +19,6 @@
 - 📫 How to reach me **khushnood99@gmail.com**
 
 - 👨‍💻 [Project Archive](https://khushnoodasif.com/archive)
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/khushnoodasif/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="khushnoodasif" height="40" width="40" /></a>
-<a href="https://twitter.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="kush_a9_" height="40" width="40" /></a>
-<a href="https://instagram.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="kush_a9_" height="40" width="40" /></a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 

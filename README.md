@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khushnood Asif</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=blue&style=flat" alt="khushnoodasif" /> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=SELF-TAUGHT%20PROGRAMMER;ALWAYS%20LEARNING%20AND%20IMPROVING&font=Fira%20Code&center=true&width=440&height=45&color=64ffda&vCenter=true&size=22"></a>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=64ffda&style=flat" alt="khushnoodasif" /> </p>
 
 - 🌱 I’m currently learning **AWS, Kubernetes and Linux**.
 
@@ -45,16 +48,16 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## 📊 Github stats
+## 📊 GITHUB STATS
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 PROFILE SUMMARY</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khushnoodasif's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=khushnoodasif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khushnoodasif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushnoodasif&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khushnoodasif's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=khushnoodasif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khushnoodasif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushnoodasif&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="khushnoodasif's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khushnoodasif&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="khushnoodasif's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khushnoodasif&bg_color=0a192f&color=F8D866&line=64ffda&point=FFFFFF&hide_border=true" /></a>

@@ -60,4 +60,4 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-![Khushnood's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushnoodasif&theme=react-dark)
+![Khushnood's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushnoodasif&bg_color=0a192f&color=F8D866&line=64ffda&point=FFFFFF&hide_border=true)

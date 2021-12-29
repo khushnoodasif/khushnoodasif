@@ -51,7 +51,6 @@
 
 ## 📊 GITHUB STATS
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 PROFILE SUMMARY</summary>
   <br/>
@@ -60,5 +59,5 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="khushnoodasif's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khushnoodasif&bg_color=0a192f&color=F8D866&line=64ffda&point=FFFFFF&hide_border=true" /></a>
+
+![Khushnood's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushnoodasif&theme=react-dark)

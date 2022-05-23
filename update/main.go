@@ -8,7 +8,7 @@ import (
 
 func makeReadme(filename string) error {
 
-	date := time.Now().Format("2 Jan 2006")
+	date := time.Now().Format("2 Jan 2006 3:4:5 pm")
 	time_new := "<sub>Last updated: " + date + ".</sub>"
 
 	file, err := os.Create(filename)

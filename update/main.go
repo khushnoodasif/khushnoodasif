@@ -77,16 +77,16 @@ func makeReadme(filename string) error {
 
 	// Prepare file with a light coating of os
 	file, err := os.Create(filename)
-	if err != nil {
-		return err
-	}
+	// if err != nil {
+	// 	return err
+	// }
 	defer file.Close()
 
 	// Bake at n bytes per second until golden brown
 	_, err = io.WriteString(file, time_new)
-	if err != nil {
-		return err
-	}
+	// if err != nil {
+	// 	return err
+	// }
 	return file.Sync()
 }
 

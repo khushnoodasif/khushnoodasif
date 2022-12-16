@@ -12,7 +12,7 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=182a46&style=flat" alt="khushnoodasif" /> </p>
     </p>
 
-- 🌱 I’m currently learning **AWS, Kubernetes and Linux**.
+- 🌱 I’m currently learning **large scale infrastructure deployment**.
 
 - 📄 Know about my experiences at [khushnoodasif.com](https://khushnoodasif.com)
 

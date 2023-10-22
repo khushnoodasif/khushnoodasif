@@ -1,61 +1,60 @@
-<h1 align="center">Hi 👋, I'm Khushnood Asif</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=SELF-TAUGHT%20PROGRAMMER;ALWAYS%20LEARNING%20AND%20IMPROVING&font=Fira%20Code&center=true&width=440&height=45&color=64ffda&vCenter=true&size=22"></a>
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/khushnoodasif/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="khushnoodasif" height="40" width="40" /></a>
-<a href="https://twitter.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="kush_a9_" height="40" width="40" /></a>
-<a href="https://instagram.com/kush_a9_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="kush_a9_" height="40" width="40" /></a>
-</p>
 
-<p align="center">
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=182a46&style=flat" alt="khushnoodasif" /> </p>
-    </p>
+# Hi 👋, I'm Khushnood Asif
+
+> SELF-TAUGHT PROGRAMMER | ALWAYS LEARNING AND IMPROVING
+
+Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushnoodasif/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kush_a9_)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kush_a9_)
+
+![Profile Views](https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=182a46&style=flat)
 
 - 🌱 I’m currently learning **large scale infrastructure deployment**.
-
 - 📄 Know about my experiences at [khushnoodasif.com](https://khushnoodasif.com)
+- 📫 How to reach me: **khushnood99@gmail.com**
 
-- 📫 How to reach me **khushnood99@gmail.com**
+### Skill Set:
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=next.js)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Fast API](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=flat&logo=raspberry-pi)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-- 👨‍💻 [Project Archive](https://khushnoodasif.com/archive)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<b>My GitHub Stats:</b>
 
-## 📊 GITHUB STATS
-
-  💻 PROFILE SUMMARY
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khushnoodasif's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=khushnoodasif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khushnoodasif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushnoodasif&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
+<a href="http://www.github.com/khushnoodasif"><img src="https://github-readme-stats.vercel.app/api?username=khushnoodasif&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="khushnoodasif's GitHub stats" /></a>

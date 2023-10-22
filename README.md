@@ -9,8 +9,6 @@ Connect with me:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kush_a9_)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kush_a9_)
 
-![Profile Views](https://komarev.com/ghpvc/?username=khushnoodasif&label=Profile%20Views&color=182a46&style=flat)
-
 - 🌱 I’m currently learning **large scale infrastructure deployment**.
 - 📄 Know about my experiences at [khushnoodasif.com](https://khushnoodasif.com)
 - 📫 How to reach me: **khushnood99@gmail.com**

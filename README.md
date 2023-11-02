@@ -3,9 +3,7 @@
   Peace and the mercy of Allah be upon you
 </p>
 
-<p align="center" style="font-size: 24px; font-weight: bold;">
-  I am Khushnood Asif, a self-taught programmer on a perpetual journey of learning and self-improvement.
-</p>
+<p align="center"><b><font>I am Khushnood Asif, a self-taught programmer on a perpetual journey of learning and self-improvement.</font></b></p>
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushnoodasif/)

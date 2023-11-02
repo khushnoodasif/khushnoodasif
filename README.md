@@ -1,7 +1,9 @@
 
-# Hi 👋, I'm Khushnood Asif
+# السلام عليكم ورحمة الله وبركاته 👋
 
-> SELF-TAUGHT PROGRAMMER | ALWAYS LEARNING AND IMPROVING
+> Peace and the mercy of Allah be upon you
+
+# I am Khushnood Asif, a self-taught programmer on a perpetual journey of learning and self-improvement.
 
 Connect with me:
 

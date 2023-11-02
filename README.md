@@ -1,11 +1,13 @@
 # السلام عليكم ورحمة الله وبركاته 👋
+<p align="right" style="font-size: 24px;">
+  Peace and the mercy of Allah be upon you
+</p>
 
-> Peace and the mercy of Allah be upon you
+<p align="center" style="font-size: 24px; font-weight: bold;">
+  I am Khushnood Asif, a self-taught programmer on a perpetual journey of learning and self-improvement.
+</p>
 
-# I am Khushnood Asif, a self-taught programmer on a perpetual journey of learning and self-improvement.
-
-Connect with me:
-
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushnoodasif/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kush_a9_)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kush_a9_)

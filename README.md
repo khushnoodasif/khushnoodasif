@@ -1,4 +1,3 @@
-
 # السلام عليكم ورحمة الله وبركاته 👋
 
 > Peace and the mercy of Allah be upon you
@@ -13,6 +12,7 @@ Connect with me:
 
 - 🌱 I’m currently learning **large scale infrastructure deployment**.
 - 📄 Know about my experiences at [khushnoodasif.com](https://khushnoodasif.com)
+- 🌐 Visit my personal blog at [codecaliper.me](https://codecaliper.me)
 - 📫 How to reach me: **khushnood99@gmail.com**
 
 ### Skill Set:

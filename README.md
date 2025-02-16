@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **large scale infrastructure deployment**.
 - 📄 Know about my experiences at [khushnoodasif.com](https://khushnoodasif.com)
 - 🌐 Visit my personal blog at [codecaliper.me](https://codecaliper.me)
-- 📫 How to reach me: **khushnood99@gmail.com**
+- 📫 How to reach me: **khushnoodasif@gmail.com**
 
 ### Skill Set:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

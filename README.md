@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Khushnood Asif</strong><br />
-  DevOps Engineer | Production Kubernetes | Terraform | CI/CD | Observability
+  DevOps Engineer | Production Platforms | Infrastructure Automation | Safe AI for Operations
 </p>
 
 <p align="center">
@@ -28,37 +28,26 @@ khushnood@github:~$ whoami
 DevOps Engineer with 4+ years of experience managing production clusters,
 automating infrastructure, and improving reliability for cloud-native systems.
 
-khushnood@github:~$ focus
-Kubernetes | Terraform | AWS | GitOps | CI/CD | Observability | Linux | Incident Response
+khushnood@github:~$ currently
+Building reliable platforms and exploring safe AI-assisted operations.
 ```
 
 ## About Me
 
-I work at the intersection of platform engineering, site reliability, cloud infrastructure, and developer experience. My day-to-day focus is building systems that are repeatable, observable, secure, and calm under pressure.
+I work at the intersection of platform engineering, site reliability, cloud infrastructure, and developer experience. My day-to-day focus is keeping production systems repeatable, observable, secure, and calm under pressure.
 
-I care about infrastructure that is easy to deploy, easy to debug, and difficult to break by accident. Outside production work, I use my homelab to test practical patterns around Kubernetes, GitOps, networking, secrets management, self-hosted services, and automation.
+I care about infrastructure that is easy to deploy, easy to debug, and difficult to break by accident. Outside production work, I use my homelab to test practical patterns before they become real operational habits.
 
-## Operating Profile
+## Core Work
 
 | Area | What I Bring |
 | --- | --- |
-| Production clusters | Operating Kubernetes and container platforms with reliability, upgrades, capacity, and failure modes in mind |
+| Production platforms | Operating Kubernetes and container platforms with reliability, upgrades, capacity, and failure modes in mind |
 | Infrastructure as code | Building reproducible environments with Terraform, automation, reviews, and clear change paths |
-| Delivery systems | Designing CI/CD workflows that make releases safer, faster, and easier to reason about |
+| Delivery systems | Designing CI/CD workflows with safer deploys, rollbacks, and release visibility |
 | Observability | Improving metrics, logs, alerts, dashboards, and runbooks so incidents have signal instead of noise |
 | Security and access | Applying least privilege, secret hygiene, network boundaries, and auditable operational workflows |
-| Platform mindset | Turning repeated manual work into reusable tools, documented processes, and developer-friendly paths |
-| Safe AI in operations | Exploring practical AI-assisted workflows for DevOps and platform engineering with human review, clear guardrails, and auditability |
-
-## What I Work On
-
-- Managing production Kubernetes clusters and cloud-native platforms
-- Automating infrastructure provisioning, configuration, and operational workflows
-- Building deployment pipelines with rollback, visibility, and release confidence
-- Supporting production debugging, incident response, and reliability reviews
-- Improving platform documentation, runbooks, and team operating practices
-- Exploring safe AI-assisted workflows for incident triage, infrastructure review, runbook generation, and platform automation
-- Experimenting with homelab infrastructure to validate real-world DevOps ideas
+| Platform enablement | Turning repeated manual work into reusable tools, documented processes, and developer-friendly paths |
 
 ## Engineering Principles
 
@@ -69,11 +58,12 @@ I care about infrastructure that is easy to deploy, easy to debug, and difficult
 - **Simple systems win:** the best platform work reduces friction while keeping important details visible.
 - **AI needs guardrails:** AI should support engineers with context, checks, and acceleration while keeping humans accountable for production decisions.
 
-## AI and Platform Engineering
+## Currently Exploring
 
-I am currently looking at how safe AI can be applied to DevOps, SRE, and platform engineering in practical ways: incident investigation, alert enrichment, infrastructure change review, runbook generation, CI/CD assistance, and operational knowledge retrieval.
-
-The goal is not to replace engineering judgment. The goal is to make teams faster and more consistent while keeping production changes reviewable, explainable, and controlled.
+- Safe AI-assisted workflows for DevOps, SRE, and platform engineering
+- Incident triage, alert enrichment, runbook generation, and infrastructure change review
+- Human-in-the-loop automation where production actions stay reviewable, explainable, and controlled
+- Homelab patterns around Kubernetes, GitOps, networking, secrets management, and self-hosted services
 
 ## Toolbox
 
@@ -103,14 +93,6 @@ The goal is not to replace engineering judgment. The goal is to make teams faste
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-## Current Focus
-
-- Deepening large-scale infrastructure deployment patterns
-- Building stronger platform abstractions around Kubernetes and GitOps
-- Improving production readiness through observability, documentation, and automation
-- Exploring safe AI-assisted DevOps workflows with human-in-the-loop controls
-- Growing my homelab into a practical testbed for real operational ideas
 
 ## Open To
 

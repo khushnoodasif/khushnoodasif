@@ -1,0 +1,4 @@
+interface:
+  display_name: "Profile README Maintainer"
+  short_description: "Maintain the GitHub profile README"
+  default_prompt: "Use this skill to update the khushnoodasif GitHub profile README."

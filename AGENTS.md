@@ -15,6 +15,10 @@ Additional Codex skills live under `.codex/skills/`.
 - Preserve the existing professional DevOps, production platforms,
   infrastructure automation, observability, security, and safe AI operations
   positioning unless the user asks for a different direction.
+- The broader homelab workspace is private personal-use and non-commercial by
+  default unless the user explicitly says otherwise. This public profile repo is
+  the exception: keep public-facing claims conservative and do not expose
+  private homelab details.
 - Do not add secrets, private employer details, private homelab URLs, or
   unverifiable production claims.
 - Treat `update/go run .` as potentially destructive because it writes to the
